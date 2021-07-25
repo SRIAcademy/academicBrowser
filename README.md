@@ -1,2 +1,2 @@
 # academicBrowser
-can browse your folders organised y position academic 
+can browse your academic-folders organised by position  
