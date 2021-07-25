@@ -8,19 +8,19 @@
     "id": 0
   },
   {
-    "x": 56,
-    "y": 285,
-    "link": "notset",
-    "name": "ഭൗതികശാസ്ത്രം ",
-    "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം/ഭൗതികശാസ്ത്രം ",
-    "id": 0
-  },
-  {
     "x": 59,
     "y": 428,
     "link": "notset",
     "name": "സുപ്രധാന നിയമങ്ങൾ",
     "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം/സുപ്രധാന നിയമങ്ങൾ",
+    "id": 0
+  },
+  {
+    "x": 56,
+    "y": 285,
+    "link": "notset",
+    "name": "ഭൗതികശാസ്ത്രം ",
+    "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം/ഭൗതികശാസ്ത്രം ",
     "id": 0
   },
   {
@@ -56,19 +56,19 @@
     "id": 0
   },
   {
-    "x": 59,
-    "y": 392,
-    "link": "notset",
-    "name": "കമ്പ്യൂട്ടർ",
-    "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം/കമ്പ്യൂട്ടർ",
-    "id": 0
-  },
-  {
     "x": 56,
     "y": 250,
     "link": "notset",
     "name": "ജീവശാസ്ത്രവും പൊതുജനാരോഗ്യവും",
     "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം/ജീവശാസ്ത്രവും പൊതുജനാരോഗ്യവും",
+    "id": 0
+  },
+  {
+    "x": 59,
+    "y": 392,
+    "link": "notset",
+    "name": "കമ്പ്യൂട്ടർ",
+    "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം/കമ്പ്യൂട്ടർ",
     "id": 0
   },
   {

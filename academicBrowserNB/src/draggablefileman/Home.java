@@ -33,7 +33,7 @@ public class Home extends javax.swing.JFrame {
         initComponents();
         setExtendedState(JFrame.MAXIMIZED_BOTH);
         MakeDraggable.on(folder2);
-        navigateTo("/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം");
+        navigateTo("USER/LDC/പൊതുവിജ്ഞാനം");
     }
 
     /**
