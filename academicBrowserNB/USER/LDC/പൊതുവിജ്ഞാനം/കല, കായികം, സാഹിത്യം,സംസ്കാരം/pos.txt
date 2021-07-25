@@ -1,1 +1,10 @@
-{}
+{
+  "new1627193402194": {
+    "x": 200,
+    "y": 20,
+    "link": "notset",
+    "name": "new1627193402194",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/കല, കായികം, സാഹിത്യം,സംസ്കാരം/new1627193402194",
+    "id": 0
+  }
+}

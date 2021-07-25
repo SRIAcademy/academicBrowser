@@ -18,6 +18,7 @@ import java.util.Map;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JFrame;
+import malayalamkeyboard.KBDFrame;
 
 /**
  *
@@ -29,7 +30,7 @@ public class Home extends javax.swing.JFrame {
     File filePos;
     Map<String, FolderInfo> mapInfo = new HashMap<>();
     Map<String, Folder> folderMap = new HashMap<>();
-    
+    KBDFrame kBDFrame = new KBDFrame();
     int y = 10;
 
     public Home() {
@@ -110,6 +111,11 @@ public class Home extends javax.swing.JFrame {
             }
         });
 
+        jTextFieldCurrFolder.addMouseListener(new java.awt.event.MouseAdapter() {
+            public void mousePressed(java.awt.event.MouseEvent evt) {
+                jTextFieldCurrFolderMousePressed(evt);
+            }
+        });
         jTextFieldCurrFolder.addKeyListener(new java.awt.event.KeyAdapter() {
             public void keyReleased(java.awt.event.KeyEvent evt) {
                 jTextFieldCurrFolderKeyReleased(evt);
@@ -180,25 +186,34 @@ public class Home extends javax.swing.JFrame {
             String newName = jTextFieldCurrFolder.getText().trim();
             File fileNew = new File(currentSelection.getParentFile(), newName);
             if (fileNew.exists()) {
-                App.infoDialog(newName+" exists" );
+                App.infoDialog(newName + " exists");
             } else {
-                
+
                 currentSelection.renameTo(fileNew);
-                      
-            folderMap.get(currentSelection.getName()).renameTo(fileNew);
+
+                folderMap.get(currentSelection.getName()).renameTo(fileNew);
                 refresh();
             }
+        }else{
+            System.out.println(""+evt.getKeyChar()+" "+evt.getKeyCode());
+            insert_inscript(evt);
         }
     }//GEN-LAST:event_jTextFieldCurrFolderKeyReleased
 
     private void jLabel4MousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jLabel4MousePressed
         try {
-            new File(currentSelection,"syllabus.txt").createNewFile();
+            new File(currentSelection, "syllabus.txt").createNewFile();
             refresh();
         } catch (IOException ex) {
             Logger.getLogger(Home.class.getName()).log(Level.SEVERE, null, ex);
         }
     }//GEN-LAST:event_jLabel4MousePressed
+
+    private void jTextFieldCurrFolderMousePressed(java.awt.event.MouseEvent evt) {//GEN-FIRST:event_jTextFieldCurrFolderMousePressed
+//        kBDFrame.open(jTextFieldCurrFolder.getText(),(text) -> {
+//            jTextFieldCurrFolder.setText(text);
+//        });
+    }//GEN-LAST:event_jTextFieldCurrFolderMousePressed
 
     /**
      * @param args the command line arguments
@@ -322,7 +337,7 @@ public class Home extends javax.swing.JFrame {
                 saveMap(mapInfo, filePos);
 
             } catch (IOException ex) {
-                System.out.println(""+filePos.getAbsolutePath());
+                System.out.println("" + filePos.getAbsolutePath());
                 Logger.getLogger(Home.class.getName()).log(Level.SEVERE, null, ex);
             }
 
@@ -331,12 +346,12 @@ public class Home extends javax.swing.JFrame {
     }
 
     private void newFolder() {
-        File subFolder = new File(currentDir, "new"+System.currentTimeMillis());
+        File subFolder = new File(currentDir, "new" + System.currentTimeMillis());
         subFolder.mkdir();
         addFolderToJpanel(subFolder);
-        
+
         try {
-            new File(subFolder,"syllabus.txt").createNewFile();
+            new File(subFolder, "syllabus.txt").createNewFile();
         } catch (IOException ex) {
             Logger.getLogger(Home.class.getName()).log(Level.SEVERE, null, ex);
         }
@@ -354,7 +369,7 @@ public class Home extends javax.swing.JFrame {
         if (mapInfo.containsKey(subDir.getName())) {
             FolderInfo infoGot = mapInfo.get(subDir.getName());
             folder.setFolderInfo(infoGot);
-            
+
         } else {
             folder.setFolderInfo(new FolderInfo(subDir, 200, y += 20));
             mapInfo.put(subDir.getName(), folder.getFolderInfo());
@@ -373,7 +388,7 @@ public class Home extends javax.swing.JFrame {
             }
 
         });
-        folderMap.put(subDir.getName(),folder);
+        folderMap.put(subDir.getName(), folder);
         jPanel1.add(folder);
     }
 
@@ -382,6 +397,12 @@ public class Home extends javax.swing.JFrame {
         currentSelection = new File(folderInfo.fullPath);
     }
 
-   
+    private void insert_inscript(KeyEvent evt) {
+   switch(evt.getKeyChar()){
+       case 'q':
+           
+           break;
+   }
+    }
 
 }

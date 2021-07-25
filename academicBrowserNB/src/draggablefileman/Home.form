@@ -138,6 +138,7 @@
     </Component>
     <Component class="javax.swing.JTextField" name="jTextFieldCurrFolder">
       <Events>
+        <EventHandler event="mousePressed" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="jTextFieldCurrFolderMousePressed"/>
         <EventHandler event="keyReleased" listener="java.awt.event.KeyListener" parameters="java.awt.event.KeyEvent" handler="jTextFieldCurrFolderKeyReleased"/>
       </Events>
     </Component>

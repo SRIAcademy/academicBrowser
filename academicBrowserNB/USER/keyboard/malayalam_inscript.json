@@ -1,0 +1,310 @@
+[
+   {
+      "char": "a",
+      "unicode": "0d4B"
+   },
+   {
+      "char": "A",
+      "unicode": "0d13"
+   },
+   {
+      "char": "s",
+      "unicode": "0d47"
+   },
+   {
+      "char": "S",
+      "unicode": "0d0F"
+   },
+   {
+      "char": "d",
+      "unicode": "0d4D"
+   },
+   {
+      "char": "D",
+      "unicode": "0d05"
+   },
+   {
+      "char": "f",
+      "unicode": "0d3F"
+   },
+   {
+      "char": "F",
+      "unicode": "0d07"
+   },
+   {
+      "char": "g",
+      "unicode": "0d41"
+   },
+   {
+      "char": "G",
+      "unicode": "0d09"
+   },
+   {
+      "char": "h",
+      "unicode": "0d2A"
+   },
+   {
+      "char": "H",
+      "unicode": "0d2B"
+   },
+   {
+      "char": "j",
+      "unicode": "0d30"
+   },
+   {
+      "char": "J",
+      "unicode": "0d31"
+   },
+   {
+      "char": "k",
+      "unicode": "0d15"
+   },
+   {
+      "char": "K",
+      "unicode": "0d16"
+   },
+   {
+      "char": "l",
+      "unicode": "0d24"
+   },
+   {
+      "char": "L",
+      "unicode": "0d25"
+   },
+   {
+      "char": "q",
+      "unicode": "0d4C"
+   },
+   {
+      "char": "Q",
+      "unicode": "0d14"
+   },
+   {
+      "char": "w",
+      "unicode": "0d48"
+   },
+   {
+      "char": "W",
+      "unicode": "0d10"
+   },
+   {
+      "char": "e",
+      "unicode": "0d3E"
+   },
+   {
+      "char": "E",
+      "unicode": "0d06"
+   },
+   {
+      "char": "r",
+      "unicode": "0d40"
+   },
+   {
+      "char": "R",
+      "unicode": "0d08"
+   },
+   {
+      "char": "t",
+      "unicode": "0d42"
+   },
+   {
+      "char": "T",
+      "unicode": "0d0A"
+   },
+   {
+      "char": "y",
+      "unicode": "0d2C"
+   },
+   {
+      "char": "Y",
+      "unicode": "0d2D"
+   },
+   {
+      "char": "u",
+      "unicode": "0d39"
+   },
+   {
+      "char": "U",
+      "unicode": "0d19"
+   },
+   {
+      "char": "i",
+      "unicode": "0d17"
+   },
+   {
+      "char": "I",
+      "unicode": "0d18"
+   },
+   {
+      "char": "o",
+      "unicode": "0d26"
+   },
+   {
+      "char": "O",
+      "unicode": "0d27"
+   },
+   {
+      "char": "p",
+      "unicode": "0d1C"
+   },
+   {
+      "char": "P",
+      "unicode": "0d1D"
+   },
+   {
+      "char": "z",
+      "unicode": "0d46"
+   },
+   {
+      "char": "Z",
+      "unicode": "0d0E"
+   },
+   {
+      "char": "x",
+      "unicode": "0d02"
+   },
+   {
+      "char": "c",
+      "unicode": "0d2E"
+   },
+   {
+      "char": "C",
+      "unicode": "0d23"
+   },
+   {
+      "char": "v",
+      "unicode": "0d28"
+   },
+   {
+      "char": "b",
+      "unicode": "0d35"
+   },
+   {
+      "char": "B",
+      "unicode": "0d34"
+   },
+   {
+      "char": "n",
+      "unicode": "0d32"
+   },
+   {
+      "char": "N",
+      "unicode": "0d33"
+   },
+   {
+      "char": "m",
+      "unicode": "0d38"
+   },
+   {
+      "char": "M",
+      "unicode": "0d36"
+   },
+   {
+      "char": "0",
+      "unicode": "0d66"
+   },
+   {
+      "char": "1",
+      "unicode": "0d67"
+   },
+   {
+      "char": "2",
+      "unicode": "0d68"
+   },
+   {
+      "char": "3",
+      "unicode": "0d69"
+   },
+   {
+      "char": "4",
+      "unicode": "0d6A"
+   },
+   {
+      "char": "5",
+      "unicode": "0d6B"
+   },
+   {
+      "char": "%",
+      "unicode": "0025"
+   },
+   {
+      "char": "6",
+      "unicode": "0d6C"
+   },
+   {
+      "char": "^",
+      "unicode": "005E"
+   },
+   {
+      "char": "7",
+      "unicode": "0d6D"
+   },
+   {
+      "char": "&",
+      "unicode": "0026"
+   },
+   {
+      "char": "8",
+      "unicode": "0d6E"
+   },
+   {
+      "char": "*",
+      "unicode": "002A"
+   },
+   {
+      "char": "9",
+      "unicode": "0d6F"
+   },
+   {
+      "char": "0",
+      "unicode": "0d66"
+   },
+   {
+      "char": "=",
+      "unicode": "0d43"
+   },
+   {
+      "char": "[",
+      "unicode": "0d21"
+   },
+   {
+      "char": "{",
+      "unicode": "0d22"
+   },
+   {
+      "char": "}",
+      "unicode": "0d1E"
+   },
+   {
+      "char": ";",
+      "unicode": "0d1A"
+   },
+   {
+      "char": ":",
+      "unicode": "0d1B"
+   },
+   {
+      "char": "\"",
+      "unicode": "0d20"
+   },
+   {
+      "char": "'",
+      "unicode": "0d1F"
+   },
+   {
+      "char": "<",
+      "unicode": "0d37"
+   },
+   {
+      "char": "/",
+      "unicode": "0d2F"
+   },
+   {
+      "char": "~",
+      "unicode": "0d12"
+   },
+   {
+      "char": "`",
+      "unicode": "0d4A"
+   }
+]
