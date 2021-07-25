@@ -1,0 +1,50 @@
+[
+  {
+    "x": 10,
+    "y": 10,
+    "link": "notset",
+    "name": "ആനുകാലിക വിഷയങ്ങൾ",
+    "fullPath": "/store/PEOPLE/ayush/LDC/ആനുകാലിക വിഷയങ്ങൾ",
+    "id": 0
+  },
+  {
+    "x": 10,
+    "y": 10,
+    "link": "notset",
+    "name": "മലയാളം",
+    "fullPath": "/store/PEOPLE/ayush/LDC/മലയാളം",
+    "id": 0
+  },
+  {
+    "x": 10,
+    "y": 10,
+    "link": "notset",
+    "name": "പൊതുവിജ്ഞാനം",
+    "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം",
+    "id": 0
+  },
+  {
+    "x": 10,
+    "y": 10,
+    "link": "notset",
+    "name": "ലഘുഗണിതവും, മാനസിക ശേഷിയും നിരീക്ഷണ പാടവ പരിശോധനയും",
+    "fullPath": "/store/PEOPLE/ayush/LDC/ലഘുഗണിതവും, മാനസിക ശേഷിയും നിരീക്ഷണ പാടവ പരിശോധനയും",
+    "id": 0
+  },
+  {
+    "x": 10,
+    "y": 10,
+    "link": "notset",
+    "name": "General English",
+    "fullPath": "/store/PEOPLE/ayush/LDC/General English",
+    "id": 0
+  },
+  {
+    "x": 10,
+    "y": 10,
+    "link": "notset",
+    "name": "ldc_main_exam_final_malayalam___english.pdf",
+    "fullPath": "/store/PEOPLE/ayush/LDC/ldc_main_exam_final_malayalam___english.pdf",
+    "id": 0
+  }
+]
