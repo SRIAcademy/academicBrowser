@@ -1,90 +1,98 @@
-[
-  {
-    "x": 52,
-    "y": 174,
-    "link": "notset",
-    "name": "ഇന്ത്യൻ ഭരണഘടന",
-    "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം/ഇന്ത്യൻ ഭരണഘടന",
-    "id": 0
-  },
-  {
-    "x": 59,
-    "y": 428,
-    "link": "notset",
-    "name": "സുപ്രധാന നിയമങ്ങൾ",
-    "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം/സുപ്രധാന നിയമങ്ങൾ",
-    "id": 0
-  },
-  {
-    "x": 56,
-    "y": 285,
-    "link": "notset",
-    "name": "ഭൗതികശാസ്ത്രം ",
-    "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം/ഭൗതികശാസ്ത്രം ",
-    "id": 0
-  },
-  {
-    "x": 50,
-    "y": 106,
-    "link": "notset",
-    "name": "ഭൂമിശാസ്ത്രം",
-    "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം/ഭൂമിശാസ്ത്രം",
-    "id": 0
-  },
-  {
-    "x": 54,
-    "y": 214,
-    "link": "notset",
-    "name": "കേരളം - ഭരണവും ഭരണസംവിധാനങ്ങളും",
-    "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം/കേരളം - ഭരണവും ഭരണസംവിധാനങ്ങളും",
-    "id": 0
-  },
-  {
-    "x": 53,
-    "y": 72,
-    "link": "notset",
-    "name": "ചരിത്രം",
-    "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം/ചരിത്രം",
-    "id": 0
-  },
-  {
-    "x": 59,
-    "y": 358,
-    "link": "notset",
-    "name": "കല, കായികം, സാഹിത്യം,സംസ്കാരം",
-    "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം/കല, കായികം, സാഹിത്യം,സംസ്കാരം",
-    "id": 0
-  },
-  {
-    "x": 56,
-    "y": 250,
+{
+  "ജീവശാസ്ത്രവും പൊതുജനാരോഗ്യവും": {
+    "x": 438,
+    "y": 156,
     "link": "notset",
     "name": "ജീവശാസ്ത്രവും പൊതുജനാരോഗ്യവും",
-    "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം/ജീവശാസ്ത്രവും പൊതുജനാരോഗ്യവും",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ജീവശാസ്ത്രവും പൊതുജനാരോഗ്യവും",
     "id": 0
   },
-  {
-    "x": 59,
-    "y": 392,
+  "സുപ്രധാന നിയമങ്ങൾ": {
+    "x": 361,
+    "y": 262,
     "link": "notset",
-    "name": "കമ്പ്യൂട്ടർ",
-    "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം/കമ്പ്യൂട്ടർ",
+    "name": "സുപ്രധാന നിയമങ്ങൾ",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/സുപ്രധാന നിയമങ്ങൾ",
     "id": 0
   },
-  {
-    "x": 58,
-    "y": 323,
+  "ഭൗതികശാസ്ത്രം ": {
+    "x": 568,
+    "y": 329,
     "link": "notset",
-    "name": "രസതന്ത്രം",
-    "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം/രസതന്ത്രം",
+    "name": "ഭൗതികശാസ്ത്രം ",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഭൗതികശാസ്ത്രം ",
     "id": 0
   },
-  {
-    "x": 50,
-    "y": 138,
+  "ധനതത്വശാസ്ത്രം": {
+    "x": 437,
+    "y": 375,
     "link": "notset",
     "name": "ധനതത്വശാസ്ത്രം",
-    "fullPath": "/store/PEOPLE/ayush/LDC/പൊതുവിജ്ഞാനം/ധനതത്വശാസ്ത്രം",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ധനതത്വശാസ്ത്രം",
+    "id": 0
+  },
+  "ഭൂമിശാസ്ത്രം": {
+    "x": 24,
+    "y": 50,
+    "link": "notset",
+    "name": "ഭൂമിശാസ്ത്രം",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഭൂമിശാസ്ത്രം",
+    "id": 0
+  },
+  "കമ്പ്യൂട്ടർ": {
+    "x": 327,
+    "y": 407,
+    "link": "notset",
+    "name": "കമ്പ്യൂട്ടർ",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/കമ്പ്യൂട്ടർ",
+    "id": 0
+  },
+  "കേരളം - ഭരണവും ഭരണസംവിധാനങ്ങളും": {
+    "x": 679,
+    "y": 237,
+    "link": "notset",
+    "name": "കേരളം - ഭരണവും ഭരണസംവിധാനങ്ങളും",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/കേരളം - ഭരണവും ഭരണസംവിധാനങ്ങളും",
+    "id": 0
+  },
+  "രസതന്ത്രം": {
+    "x": 790,
+    "y": 371,
+    "link": "notset",
+    "name": "രസതന്ത്രം",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/രസതന്ത്രം",
+    "id": 0
+  },
+  "ചരിത്രം": {
+    "x": 21,
+    "y": 19,
+    "link": "notset",
+    "name": "ചരിത്രം",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ചരിത്രം",
+    "id": 0
+  },
+  "കല, കായികം, സാഹിത്യം,സംസ്കാരം": {
+    "x": 23,
+    "y": 83,
+    "link": "notset",
+    "name": "കല, കായികം, സാഹിത്യം,സംസ്കാരം",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/കല, കായികം, സാഹിത്യം,സംസ്കാരം",
+    "id": 0
+  },
+  "syllabus.txt": {
+    "x": 535,
+    "y": 475,
+    "link": "notset",
+    "name": "syllabus.txt",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/syllabus.txt",
+    "id": 0
+  },
+  "ഇന്ത്യൻ ഭരണഘടന": {
+    "x": 888,
+    "y": 318,
+    "link": "notset",
+    "name": "ഇന്ത്യൻ ഭരണഘടന",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഇന്ത്യൻ ഭരണഘടന",
     "id": 0
   }
-]
+}

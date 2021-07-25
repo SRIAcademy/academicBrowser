@@ -18,11 +18,11 @@ public class FolderInfo {
     String name, fullPath;
     long id;
 
-    FolderInfo(File file) {
+    FolderInfo(File file,int x,int y) {
         fullPath = file.getAbsolutePath();
         name = file.getName();
-        x = 10;
-        y = 10;
+        this.x = x;
+        this.y = y;
         link = "notset";
         id = 0;
     }

@@ -19,7 +19,7 @@ import javax.swing.JComponent;
  */
 public class Folder extends JButton {
 
-    private FolderInfo folderInfo;
+    private FolderInfo info;
     private OnSelection onSelection;
 
     public Folder() {
@@ -29,21 +29,15 @@ public class Folder extends JButton {
             public void mouseReleased(MouseEvent e) {
                 super.mouseReleased(e); //To change body of generated methods, choose Tools | Templates.
                 Point location = getLocation();
-                folderInfo.x = location.x;
-                folderInfo.y = location.y;
+                info.x = location.x;
+                info.y = location.y;
             }
 
             @Override
             public void mousePressed(MouseEvent e) {
                 super.mousePressed(e); //To change body of generated methods, choose Tools | Templates.
-                if (!e.isControlDown()) {
-                    onSelection.call(getFolderInfo());
-                }
-                
-                if(e.getButton()==3){
-                App.thunar(new File(folderInfo.fullPath));
-                }
-                
+                onSelection.call(getFolderInfo(), e);
+
             }
 
         });
@@ -55,16 +49,16 @@ public class Folder extends JButton {
 
     }
 
-    Folder(File file) {
-        this(new FolderInfo(file));
+    Folder(File file, int x, int y) {
+        this(new FolderInfo(file, x, y));
     }
 
     public FolderInfo getFolderInfo() {
-        return folderInfo;
+        return info;
     }
 
     public final void setFolderInfo(FolderInfo folderInfo) {
-        this.folderInfo = folderInfo;
+        this.info = folderInfo;
         setText(folderInfo.name);
 //        setLocation(folderInfo.x, folderInfo.y);
         setBounds(folderInfo.x, folderInfo.y, getPreferredSize().width, getPreferredSize().height);
@@ -74,4 +68,11 @@ public class Folder extends JButton {
         this.onSelection = onSelection;
     }
 
+    void renameTo(File fileNew) {
+        info.fullPath = fileNew.getAbsolutePath();
+        info.name = fileNew.getName();
+        setText( info.name);
+    }
+
+    
 }

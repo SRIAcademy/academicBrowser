@@ -5,6 +5,8 @@
  */
 package draggablefileman;
 
+import java.awt.event.MouseEvent;
+
 /**
  *
  * @author aswathy
@@ -12,5 +14,6 @@ package draggablefileman;
 public interface OnSelection {
 
 
-    public void call(FolderInfo folderInfo);
+
+    public void call(FolderInfo folderInfo, MouseEvent e);
 }

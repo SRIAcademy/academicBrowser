@@ -1,1 +1,82 @@
-[]
+{
+  "അടിസ്ഥാന": {
+    "x": 74,
+    "y": 34,
+    "link": "notset",
+    "name": "അടിസ്ഥാന",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഭൂമിശാസ്ത്രം/അടിസ്ഥാന",
+    "id": 0
+  },
+  "new1627192255306": {
+    "x": 392,
+    "y": 35,
+    "link": "notset",
+    "name": "d1",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഭൂമിശാസ്ത്രം/d1",
+    "id": 0
+  },
+  "new1627192259345": {
+    "x": 393,
+    "y": 67,
+    "link": "notset",
+    "name": "d2",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഭൂമിശാസ്ത്രം/d2",
+    "id": 0
+  },
+  "d2": {
+    "x": 203,
+    "y": 102,
+    "link": "notset",
+    "name": "േകരളം",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഭൂമിശാസ്ത്രം/േകരളം",
+    "id": 0
+  },
+  "d1": {
+    "x": 201,
+    "y": 70,
+    "link": "notset",
+    "name": "d1",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഭൂമിശാസ്ത്രം/d1",
+    "id": 0
+  },
+  "new1627192328712": {
+    "x": 201,
+    "y": 74,
+    "link": "notset",
+    "name": "s1",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഭൂമിശാസ്ത്രം/s1",
+    "id": 0
+  },
+  "s1": {
+    "x": 203,
+    "y": 71,
+    "link": "notset",
+    "name": "ഇനയ",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഭൂമിശാസ്ത്രം/ഇനയ",
+    "id": 0
+  },
+  "new1627192443814": {
+    "x": 243,
+    "y": 130,
+    "link": "notset",
+    "name": "d2",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഭൂമിശാസ്ത്രം/d2",
+    "id": 0
+  },
+  "േകരളം": {
+    "x": 82,
+    "y": 72,
+    "link": "notset",
+    "name": "േകരളം",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഭൂമിശാസ്ത്രം/േകരളം",
+    "id": 0
+  },
+  "ഇനയ": {
+    "x": 85,
+    "y": 113,
+    "link": "notset",
+    "name": "ഇനയ",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഭൂമിശാസ്ത്രം/ഇനയ",
+    "id": 0
+  }
+}

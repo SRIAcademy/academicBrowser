@@ -1,31 +1,31 @@
 {
   "ജീവശാസ്ത്രവും പൊതുജനാരോഗ്യവും": {
-    "x": 10,
-    "y": 30,
+    "x": 25,
+    "y": 13,
     "link": "notset",
     "name": "ജീവശാസ്ത്രവും പൊതുജനാരോഗ്യവും",
     "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ജീവശാസ്ത്രവും പൊതുജനാരോഗ്യവും",
     "id": 0
   },
   "സുപ്രധാന നിയമങ്ങൾ": {
-    "x": 10,
-    "y": 50,
+    "x": 93,
+    "y": 45,
     "link": "notset",
     "name": "സുപ്രധാന നിയമങ്ങൾ",
     "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/സുപ്രധാന നിയമങ്ങൾ",
     "id": 0
   },
   "ഭൗതികശാസ്ത്രം ": {
-    "x": 10,
-    "y": 70,
+    "x": 132,
+    "y": 73,
     "link": "notset",
     "name": "ഭൗതികശാസ്ത്രം ",
     "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഭൗതികശാസ്ത്രം ",
     "id": 0
   },
   "ധനതത്വശാസ്ത്രം": {
-    "x": 10,
-    "y": 90,
+    "x": 90,
+    "y": 96,
     "link": "notset",
     "name": "ധനതത്വശാസ്ത്രം",
     "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ധനതത്വശാസ്ത്രം",
@@ -93,30 +93,6 @@
     "link": "notset",
     "name": "ഇന്ത്യൻ ഭരണഘടന",
     "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഇന്ത്യൻ ഭരണഘടന",
-    "id": 0
-  },
-  "ലോകം": {
-    "x": 23,
-    "y": 92,
-    "link": "notset",
-    "name": "ലോകം",
-    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ചരിത്രം/ലോകം",
-    "id": 0
-  },
-  "കേരളം": {
-    "x": 18,
-    "y": 17,
-    "link": "notset",
-    "name": "കേരളം",
-    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ചരിത്രം/കേരളം",
-    "id": 0
-  },
-  "ഇന്ത്യ": {
-    "x": 25,
-    "y": 55,
-    "link": "notset",
-    "name": "ഇന്ത്യ",
-    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ചരിത്രം/ഇന്ത്യ",
     "id": 0
   }
 }

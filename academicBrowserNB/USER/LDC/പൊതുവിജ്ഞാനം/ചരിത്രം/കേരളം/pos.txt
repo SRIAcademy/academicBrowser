@@ -96,27 +96,43 @@
     "id": 0
   },
   "ലോകം": {
-    "x": 23,
-    "y": 92,
+    "x": 29,
+    "y": 88,
     "link": "notset",
     "name": "ലോകം",
     "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ചരിത്രം/ലോകം",
     "id": 0
   },
   "കേരളം": {
-    "x": 18,
-    "y": 17,
+    "x": 24,
+    "y": 20,
     "link": "notset",
     "name": "കേരളം",
     "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ചരിത്രം/കേരളം",
     "id": 0
   },
   "ഇന്ത്യ": {
-    "x": 25,
-    "y": 55,
+    "x": 29,
+    "y": 53,
     "link": "notset",
     "name": "ഇന്ത്യ",
     "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ചരിത്രം/ഇന്ത്യ",
+    "id": 0
+  },
+  "യൂറോപ്യന്‍മാരുടെ വരവ്": {
+    "x": 86,
+    "y": 22,
+    "link": "notset",
+    "name": "യൂറോപ്യന്‍മാരുടെ വരവ്",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ചരിത്രം/കേരളം/യൂറോപ്യന്‍മാരുടെ വരവ്",
+    "id": 0
+  },
+  "തിരുവിതാംകൂറിന്റെ ചരിത്രം": {
+    "x": 93,
+    "y": 56,
+    "link": "notset",
+    "name": "തിരുവിതാംകൂറിന്റെ ചരിത്രം",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ചരിത്രം/കേരളം/തിരുവിതാംകൂറിന്റെ ചരിത്രം",
     "id": 0
   }
 }

@@ -1,0 +1,10 @@
+{
+  "syllabus.txt": {
+    "x": 200,
+    "y": 20,
+    "link": "notset",
+    "name": "syllabus.txt",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ചരിത്രം/ലോകം/syllabus.txt",
+    "id": 0
+  }
+}
