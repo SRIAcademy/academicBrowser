@@ -94,5 +94,13 @@
     "name": "ഇന്ത്യൻ ഭരണഘടന",
     "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഇന്ത്യൻ ഭരണഘടന",
     "id": 0
+  },
+  "new1627205731762": {
+    "x": 200,
+    "y": 20,
+    "link": "notset",
+    "name": "new1627205731762",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ജീവശാസ്ത്രവും പൊതുജനാരോഗ്യവും/new1627205731762",
+    "id": 0
   }
 }

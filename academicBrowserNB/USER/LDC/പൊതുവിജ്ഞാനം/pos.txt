@@ -1,31 +1,31 @@
 {
   "ജീവശാസ്ത്രവും പൊതുജനാരോഗ്യവും": {
-    "x": 438,
-    "y": 156,
+    "x": 75,
+    "y": 116,
     "link": "notset",
     "name": "ജീവശാസ്ത്രവും പൊതുജനാരോഗ്യവും",
     "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ജീവശാസ്ത്രവും പൊതുജനാരോഗ്യവും",
     "id": 0
   },
   "സുപ്രധാന നിയമങ്ങൾ": {
-    "x": 361,
-    "y": 262,
+    "x": 84,
+    "y": 190,
     "link": "notset",
     "name": "സുപ്രധാന നിയമങ്ങൾ",
     "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/സുപ്രധാന നിയമങ്ങൾ",
     "id": 0
   },
   "ഭൗതികശാസ്ത്രം ": {
-    "x": 568,
-    "y": 329,
+    "x": 89,
+    "y": 230,
     "link": "notset",
     "name": "ഭൗതികശാസ്ത്രം ",
     "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഭൗതികശാസ്ത്രം ",
     "id": 0
   },
   "ധനതത്വശാസ്ത്രം": {
-    "x": 437,
-    "y": 375,
+    "x": 90,
+    "y": 264,
     "link": "notset",
     "name": "ധനതത്വശാസ്ത്രം",
     "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ധനതത്വശാസ്ത്രം",
@@ -40,23 +40,23 @@
     "id": 0
   },
   "കമ്പ്യൂട്ടർ": {
-    "x": 327,
-    "y": 407,
+    "x": 95,
+    "y": 297,
     "link": "notset",
     "name": "കമ്പ്യൂട്ടർ",
     "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/കമ്പ്യൂട്ടർ",
     "id": 0
   },
   "കേരളം - ഭരണവും ഭരണസംവിധാനങ്ങളും": {
-    "x": 679,
-    "y": 237,
+    "x": 76,
+    "y": 152,
     "link": "notset",
     "name": "കേരളം - ഭരണവും ഭരണസംവിധാനങ്ങളും",
     "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/കേരളം - ഭരണവും ഭരണസംവിധാനങ്ങളും",
     "id": 0
   },
   "രസതന്ത്രം": {
-    "x": 790,
+    "x": 101,
     "y": 371,
     "link": "notset",
     "name": "രസതന്ത്രം",
@@ -80,16 +80,16 @@
     "id": 0
   },
   "syllabus.txt": {
-    "x": 535,
-    "y": 475,
+    "x": 106,
+    "y": 437,
     "link": "notset",
     "name": "syllabus.txt",
     "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/syllabus.txt",
     "id": 0
   },
   "ഇന്ത്യൻ ഭരണഘടന": {
-    "x": 888,
-    "y": 318,
+    "x": 96,
+    "y": 331,
     "link": "notset",
     "name": "ഇന്ത്യൻ ഭരണഘടന",
     "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഇന്ത്യൻ ഭരണഘടന",

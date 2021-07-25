@@ -1,0 +1,18 @@
+{
+  "syllabus.txt": {
+    "x": 200,
+    "y": 20,
+    "link": "notset",
+    "name": "syllabus.txt",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഭൗതികശാസ്ത്രം /syllabus.txt",
+    "id": 0
+  },
+  "new1627205778036": {
+    "x": 200,
+    "y": 40,
+    "link": "notset",
+    "name": "new1627205778036",
+    "fullPath": "/home/aswathy/NetBeansProjects/academicBrowser/academicBrowserNB/USER/LDC/പൊതുവിജ്ഞാനം/ഭൗതികശാസ്ത്രം /new1627205778036",
+    "id": 0
+  }
+}
